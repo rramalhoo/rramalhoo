@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=A020F0&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Raphael+Ramlho+👋🏻" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=A020F0&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Raphael+Ramalho+👋🏻" alt="Typing SVG" /></a>
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5s0YlIEttXkdwkxWgyV-sg) [![Instagram](https://img.shields.io/badge/Intagram-A020F0?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rramalhoo/)
