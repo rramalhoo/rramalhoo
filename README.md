@@ -4,8 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5s0YlIEttXkdwkxWgyV-sg) [![Instagram](https://img.shields.io/badge/Intagram-ADD8E6style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rramalhoo/)
 
 
-
-![Rapha GitHub stats](https://github-readme-stats.vercel.app/api?username=rramalhoo&show_icons=true&theme=dark)
+[![Rapha GitHub stats](https://github-readme-stats.vercel.app/api?username=rramalhoo&theme=Tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rramalhoo&layout=compact&theme=dark)
 
