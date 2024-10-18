@@ -1,10 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=00a8ff&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Raphael+Ramalho+👋🏻" alt="Typing SVG" /></a>
 
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5s0YlIEttXkdwkxWgyV-sg) [![Instagram](https://img.shields.io/badge/Intagram-ADD8E6style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rramalhoo/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5s0YlIEttXkdwkxWgyV-sg) [![Instagram](https://img.shields.io/badge/Intagram-A020F0?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rramalhoo/)
 
 
-[![Rapha GitHub stats](https://github-readme-stats.vercel.app/api?username=rramalhoo&theme=Tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Rapha GitHub stats](https://github-readme-stats.vercel.app/api?username=rramalhoo&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rramalhoo&layout=compact&theme=dark)
 
@@ -28,5 +29,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-
