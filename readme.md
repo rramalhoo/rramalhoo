@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h3 data-importer="text" align="left">Olá !👋 Meu nome é Raphael Ramalho</h3>
-<h2 data-importer="text" align="left">Meu nome é Raphael Ramalho</h2>
+<h4 data-importer="text" align="left">Atualmente estudo:</h4>
 
 ###
 
@@ -23,20 +23,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
 </div>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/rramalhoo/rramalhoo/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2&custom_title=Linguagens%20Utilizadas:" height="90" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rramalhoo/rramalhoo/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rramalhoo/rramalhoo/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rramalhoo/rramalhoo/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
