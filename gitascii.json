@@ -1,0 +1,100 @@
+{
+  "widgets": [
+    {
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": { "x": 516, "y": 16 },
+      "size": { "width": 256, "height": 160 },
+      "config": {
+        "selectedTechs": ["js", "css", "py", "cpp", "git", "flutter", "bootstrap", "supabase"],
+        "theme": "dark",
+        "perLine": 4,
+        "backgroundColor": "github-auto",
+        "textColor": "#f0f0f0",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "showTitle": true,
+        "customTitle": "[ STUDYING ]",
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1792753911894_5"
+    },
+    {
+      "instanceId": "widget_1792754064355",
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": { "x": 12, "y": 8 },
+      "size": { "width": 504, "height": 208 },
+      "config": {
+        "backgroundColor": "github-auto",
+        "textColor": "#00ffff",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "headerColor": "#ff71ce",
+        "labelColor": "#01cdfe",
+        "hideBorder": true,
+        "dotColor": "#6b3ba7",
+        "valueColor": "#fffb96",
+        "statsValColor": "#05ffa1",
+        "dividerColor": "#3d1e6d",
+        "showTitle": false,
+        "showLocation": true,
+        "showJoined": false,
+        "showFollowing": false,
+        "showAchievements": false,
+        "showWebsite": true,
+        "showGithub": true,
+        "showEmail": false,
+        "showOrgs": false,
+        "showStars": false,
+        "showFollowers": false,
+        "showGists": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": { "x": 0, "y": 176 },
+      "size": { "width": 800, "height": 136 },
+      "config": {
+        "backgroundColor": "github-auto",
+        "textColor": "#7a7a7a",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "hideBorder": true,
+        "hideLangsArr": [],
+        "hideLangs": "",
+        "showPercentage": true,
+        "langsLayout": "bars",
+        "langsCount": 4,
+        "showTitle": false,
+        "customTitle": "Raphae",
+        "hideDecorations": false,
+        "lockAspectRatio": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1792753911894_3"
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "auto",
+    "templateStyle": "native",
+    "transparentBackground": false
+  },
+  "templateId": "terminal"
+}
