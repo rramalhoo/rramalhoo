@@ -1,13 +1,5 @@
-<h3 data-importer="text" align="left">Olá !👋 Meu nome é Raphael Ramalho</h3>
-<h2></h2>
-
-<h4 data-importer="text" align="left">Atualmente estudo:</h4>
-
-###
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,flutter,python,git&theme=light" />
-  </a>
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rramalhoo/rramalhoo/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rramalhoo/rramalhoo/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/rramalhoo/rramalhoo/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
